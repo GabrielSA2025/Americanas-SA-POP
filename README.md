@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Tutorial Sistema - Americanas S.A</title>
+  <link rel="icon" href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCNJN0ZOmsqg2z3BoUSbhboYVHWpmub0jvfg&s" type="image/png">
   <style>
     body {
       font-family: Arial, sans-serif;
